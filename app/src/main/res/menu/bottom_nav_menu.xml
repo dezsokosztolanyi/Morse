@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/morseToTextFragment"
+        android:title="Bugün"
+        android:icon="@drawable/ic_text"/>
+
+    <item android:id="@+id/textToMorseFragment"
+        android:title="Arama"
+        android:icon="@drawable/ic_text"/>
+
+</menu>
